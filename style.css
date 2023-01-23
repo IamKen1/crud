@@ -1,3 +1,6 @@
+body,html{
+    background-color: red;
+}
 .container{
     border: 1px solid red;
     background-color: brown;
